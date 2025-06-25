@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, software development, and building AI-powered tools  
 - 🌱 I’m currently learning advanced Java, cybersecurity frameworks, and full-stack development  
 - 💞️ I’m looking to collaborate on open-source security tools, educational tech, and innovative automation projects  
-- 📫 How to reach me: ahmed2bassam@gmail.com or via [LinkedIn](https://www.linkedin.com/in/ahmed2bassam)  
+- 📫 How to reach me: ahmed2bassam@gmail.com or via [LinkedIn](linkedin.com/in/ahmed-said-878820252)  
 
 
 <!---
