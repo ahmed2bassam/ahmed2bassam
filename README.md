@@ -26,12 +26,6 @@ I build AI-first applications and experiment with practical cybersecurity tools.
 - Secure-by-design engineering for web and cloud apps
 - Learning and teaching cryptography fundamentals through interactive demos
 
-### Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed2bassam&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
-</p>
-
 ### Projects
 
 - AIPCC — https://github.com/ahmed2bassam/AIPCC
