@@ -9,13 +9,13 @@
 <p align="center"><em>AI researcher and cybersecurity enthusiast building practical, secure AI-powered tools and demos.</em></p>
 
 <p align="center">
-  <a href="https://github.com/ahmed2bassam/AIPCC" title="AIPCC">[<img src="./assets/card-AIPCC.svg" alt="AIPCC" />]</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ahmed2bassam/crimson-stream" title="crimson-stream">[<img src="./assets/card-crimson-stream.svg" alt="crimson-stream" />]</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ahmed2bassam/EncryptionWeb-app" title="EncryptionWeb-app">[<img src="./assets/card-EncryptionWeb-app.svg" alt="EncryptionWeb-app" />]</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ahmed2bassam/UniLink" title="UniLink">[<img src="./assets/card-UniLink.svg" alt="UniLink" />]</a>
+  <a href="https://github.com/ahmed2bassam/AIPCC" title="AIPCC">AIPCC</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ahmed2bassam/crimson-stream" title="crimson-stream">crimson-stream</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ahmed2bassam/EncryptionWeb-app" title="EncryptionWeb-app">EncryptionWeb-app</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ahmed2bassam/UniLink" title="UniLink">UniLink</a>
 </p>
 
 ### About
@@ -32,13 +32,12 @@ I build AI-first applications and experiment with practical cybersecurity tools.
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed2bassam&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2bassam&layout=compact&theme=radical" alt="Top languages" />
-</p>
+### Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed2bassam&theme=react-dark" alt="Activity graph" />
-</p>
+- AIPCC — https://github.com/ahmed2bassam/AIPCC
+- crimson-stream — https://github.com/ahmed2bassam/crimson-stream
+- EncryptionWeb-app — https://github.com/ahmed2bassam/EncryptionWeb-app
+- UniLink — https://github.com/ahmed2bassam/UniLink
 
 ### Connect
 
