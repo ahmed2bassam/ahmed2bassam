@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7b2ff7"/>
+      <stop offset="50%" stop-color="#2b82ff"/>
+      <stop offset="100%" stop-color="#00e5a8"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="100%" stop-color="#ffd86b"/>
+    </linearGradient>
+    <mask id="reveal">
+      <rect x="0" y="0" width="0" height="240" fill="#fff">
+        <animate attributeName="width" from="0" to="1200" dur="1.6s" begin="0.3s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#g)" />
+  <g mask="url(#reveal)">
+    <rect width="1200" height="240" fill="url(#g2)" opacity="0.18" />
+  </g>
+
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#fff">
+    <text x="60" y="90" font-size="40" font-weight="700">Hi, I’m Ahmed Said</text>
+    <text x="60" y="140" font-size="20" fill="#e6f0ff">AI researcher • Cybersecurity enthusiast • Full-stack tinkerer</text>
+
+    <!-- simple type-reveal for the subtitle -->
+    <g transform="translate(60,180)">
+      <rect x="0" y="-26" width="760" height="36" fill="transparent" />
+      <text id="typed" x="0" y="0" font-size="18" fill="#ffffff" font-weight="600">I build AI-powered tools and secure systems.</text>
+      <rect x="0" y="-28" width="0" height="38" fill="#000" opacity="0.0">
+        <animate attributeName="width" from="0" to="760" dur="2s" begin="1.2s" fill="freeze" />
+      </rect>
+    </g>
+  </g>
+
+  <!-- decorative orbs -->
+  <circle cx="1050" cy="60" r="38" fill="#ffffff" opacity="0.06">
+    <animate attributeName="r" values="38;46;38" dur="6s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1120" cy="160" r="24" fill="#ffffff" opacity="0.05">
+    <animate attributeName="r" values="24;30;24" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>

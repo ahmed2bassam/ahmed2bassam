@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="140">
+  <defs>
+    <linearGradient id="grad2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff8a00"/>
+      <stop offset="100%" stop-color="#e52e71"/>
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect rx="12" ry="12" width="880" height="140" fill="url(#grad2)" filter="url(#shadow2)"/>
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#fff">
+    <text x="28" y="50" font-size="26" font-weight="700">crimson-stream</text>
+    <text x="28" y="82" font-size="14" fill="#ffeef0">A front-end/TypeScript project (demo deployed)</text>
+    <text x="760" y="92" font-size="14" text-anchor="end" fill="#ffffff" opacity="0.9">TypeScript • Demo</text>
+  </g>
+</svg>
