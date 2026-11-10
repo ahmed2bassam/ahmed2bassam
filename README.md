@@ -15,7 +15,7 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/ahmed2bassam/EncryptionWeb-app" title="EncryptionWeb-app">EncryptionWeb-app</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ahmed2bassam/hangout-seekers-organized" title="UniLink">HangOutSeekers</a>
+  <a href="https://github.com/ahmed2bassam/hangout-seekers-organized" title="HangOutSeeker">HangOutSeekers</a>
 </p>
 
 ### About
@@ -29,9 +29,9 @@ I build AI-first applications and experiment with practical cybersecurity tools.
 ### Projects
 
 - AIPCC — https://github.com/ahmed2bassam/AIPCC
-- crimson-stream — https://github.com/ahmed2bassam/crimson-stream
+- UniLink — https://github.com/ahmed2bassam/crimson-stream
 - EncryptionWeb-app — https://github.com/ahmed2bassam/EncryptionWeb-app
-- UniLink — https://github.com/ahmed2bassam/UniLink
+- HangOutSeekers — https://github.com/ahmed2bassam/hangout-seekers-organized
 
 ### Connect
 
