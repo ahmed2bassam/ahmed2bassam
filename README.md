@@ -6,12 +6,12 @@
 
 <h2 align="center">Hey — I’m Ahmed 👋</h2>
 
-<p align="center"><em>AI researcher and cybersecurity enthusiast building practical, secure AI-powered tools and demos.</em></p>
+<p align="center"><em>AI researcher and cybersecurity engineer building practical, secure AI-powered tools and demos.</em></p>
 
 <p align="center">
   <a href="https://github.com/ahmed2bassam/AIPCC" title="AIPCC">AIPCC</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ahmed2bassam/crimson-stream" title="crimson-stream">UniLink</a>
+  <a href="https://github.com/ahmed2bassam/crimson-stream" title="UniLink">UniLink</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/ahmed2bassam/EncryptionWeb-app" title="EncryptionWeb-app">EncryptionWeb-app</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
